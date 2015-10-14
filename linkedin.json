@@ -1,0 +1,43 @@
+{
+  "skillset": [
+    {
+      "name": "Gautam Jeyaraman",
+      "skills": [
+        "Web Services",
+        "Python",
+        ".NET",
+        "Windows",
+        "C++",
+        "Java",
+        "JavaScript",
+        "C",
+        "XML",
+        "C#",
+        "ASP.NET",
+        "HTML",
+        "Microsoft Office",
+        "Programming",
+        "SQL"
+      ],
+      "courses": []
+    },
+    {
+      "name": "Shivani Sharma",
+      "skills": [
+        "C",
+        "C++",
+        "Core Java",
+        "Objective-C",
+        "Ruby on Rails",
+        "MySQL",
+        "Data Structures",
+        "Algorithms",
+        "Linux",
+        "iOS Development",
+        "REST",
+        "Microsoft SQL Server"
+      ],
+      "courses": []
+    }
+  ]
+}
